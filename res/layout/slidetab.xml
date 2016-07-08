@@ -18,7 +18,7 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <android.dwitherell.tinkerings.utils.SlidingTabLayout
+    <com.android.puretools.utils.SlidingTabLayout
         android:id="@+id/sliding_tabs"
         android:background="@color/list_background"
         android:layout_width="match_parent"
